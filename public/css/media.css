@@ -1,0 +1,14 @@
+@media all and (max-width:500px){
+    .nav-item {
+        margin-left: 0px;
+    }
+    .nav-link2{
+        display:block;
+        margin:0px 0px 10px;
+    }
+    .nav-container{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+}
